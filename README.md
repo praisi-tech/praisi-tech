@@ -81,7 +81,7 @@ Security tooling: Burp Suite, Kali Linux, curl, grep, SQLmap, dig, exiftool, Pac
 
 ---
 
-## Objectives for 2025
+## Objectives for 2026
 - Release full offensive CTF portfolio with professional-standard documentation  
 - Develop Python tooling for reconnaissance and automation  
 - Advance secure development practices across Android and web  
