@@ -81,14 +81,6 @@ Security tooling: Burp Suite, Kali Linux, curl, grep, SQLmap, dig, exiftool, Pac
 
 ---
 
-## Metrics
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=praisi-tech&show_icons=false&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praisi-tech&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## Objectives for 2025
 - Release full offensive CTF portfolio with professional-standard documentation  
 - Develop Python tooling for reconnaissance and automation  
@@ -101,7 +93,7 @@ Security tooling: Burp Suite, Kali Linux, curl, grep, SQLmap, dig, exiftool, Pac
 
 ## Contact
 GitHub: https://github.com/praisi-tech  
-Email: *praisilia.anastasya@gmail.com*  
+Email: *praisilia.productive@gmail.com*  
 
 ---
 
